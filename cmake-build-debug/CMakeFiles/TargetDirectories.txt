@@ -1,0 +1,3 @@
+C:/Users/morgan/CLionProjects/aruco_upgrade/cmake-build-debug/CMakeFiles/aruco_upgrade.dir
+C:/Users/morgan/CLionProjects/aruco_upgrade/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/morgan/CLionProjects/aruco_upgrade/cmake-build-debug/CMakeFiles/rebuild_cache.dir
